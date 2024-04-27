@@ -23,7 +23,7 @@ function Banner() {
 
                 </div>
                 <div>
-                    <img loading='lazy' src='https:/links.papareact.com/7ma' alt='' />
+                    <img loading='lazy' src='https://links.papareact.com/7ma' alt='' />
 
                 </div>
 
